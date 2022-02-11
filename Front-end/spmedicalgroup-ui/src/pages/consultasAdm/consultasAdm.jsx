@@ -54,7 +54,7 @@ export default function ConsultasAdm() {
   useEffect(BuscarConsultas, []);
 
   function CadastrarConsulta(consulta) {
-    axios.post("http://localhost:5000/api/Consultas", {
+    axios.post("https://620504d8161670001741b32b.mockapi.io/consultas", {
       idCliente: idCliente,
       idMedico: idMedico,
       idSituacao: idSituacao,

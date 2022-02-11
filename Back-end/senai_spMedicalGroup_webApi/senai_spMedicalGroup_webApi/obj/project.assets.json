@@ -7758,11 +7758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48395996888.INFOSCS\\Desktop\\Projeto-SP-Med.-Group\\Back-end\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi.csproj",
+      "projectUniqueName": "C:\\Users\\48395996888.INFOSCS\\Desktop\\SPMedical_Mockapi\\Back-end\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi.csproj",
       "projectName": "senai_spMedicalGroup_webApi",
-      "projectPath": "C:\\Users\\48395996888.INFOSCS\\Desktop\\Projeto-SP-Med.-Group\\Back-end\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi.csproj",
+      "projectPath": "C:\\Users\\48395996888.INFOSCS\\Desktop\\SPMedical_Mockapi\\Back-end\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi.csproj",
       "packagesPath": "C:\\Users\\48395996888.INFOSCS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48395996888.INFOSCS\\Desktop\\Projeto-SP-Med.-Group\\Back-end\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi\\obj\\",
+      "outputPath": "C:\\Users\\48395996888.INFOSCS\\Desktop\\SPMedical_Mockapi\\Back-end\\senai_spMedicalGroup_webApi\\senai_spMedicalGroup_webApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
